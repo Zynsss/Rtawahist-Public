@@ -1,2 +1,2 @@
 # ZynsMusicBotProjectV2
-A music bot created by Discord.js v14 and node.js
+A music bot created using Discord.js v14 and node.js
